@@ -1,0 +1,23 @@
+{
+  "name": "Firebase-Simple-Login",
+  "description": "Simple Firebase login with AngularJS",
+  "version": "1",
+  "keywords": [
+    "Firebase",
+    "AngularJS",
+    "Auth"
+  ],
+  "maintainers": [
+    {
+      "name": "Agyei Masters",
+      "email": "",
+      "web": "https://twitter.com/_helium"
+    }
+  ],
+  "repositories": [
+    {
+      "type": "git",
+      "url": "https://github.com/helium96/Firebase-Login-AngularFire.git"
+    }
+  ]
+}
